@@ -1,1 +1,2 @@
-# cs360
+#Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The requirements of this application was to desgin a warehousing inventory application that was protected by a login, had the ability to create and delete new products, update the inventory count of those products and have a basic notification system that was opt-in that allowed the user to recieve a text message alert when stock of items were low. This applications was designed to allow users who worked in the industry to keep an up-to-date inventory on there persons, and to identify proactively when an item was low in stock versus running out and being unable to fill an order.
